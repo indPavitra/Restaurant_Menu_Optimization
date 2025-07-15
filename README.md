@@ -1,4 +1,4 @@
-# SQL_Project_1  
+# SQL_Project
 **Restaurant Order Analysis Using SQL**
 
 This project explores restaurant order data stored in a MySQL database to uncover key insights into menu performance, customer preferences, and ordering patterns.
